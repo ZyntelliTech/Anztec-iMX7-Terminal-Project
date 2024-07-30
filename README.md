@@ -127,7 +127,7 @@ We can build the image and check the changes
 
 For building the image go to the build environment and execute the below command
 ```
-$ bitbake anztec-imx7-terminal-image
+$ bitbake anztec-imx7-terminal-multimedia-image
 ```
 ### Flash the image
 
